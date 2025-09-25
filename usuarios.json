@@ -1,0 +1,65 @@
+{
+    "lucas": {
+        "senha": "123",
+        "pacientes": {
+            "rogerio": {
+                "alimentos": [
+                    [
+                        "Batata-doce cozida (150g)",
+                        129.0,
+                        2.1
+                    ],
+                    [
+                        "Feijão carioca cozido (150g)",
+                        190.5,
+                        13.05
+                    ],
+                    [
+                        "Quinoa cozida (150g)",
+                        180.0,
+                        6.15
+                    ],
+                    [
+                        "Batata-doce cozida (150g)",
+                        129.0,
+                        2.1
+                    ],
+                    [
+                        "Espinafre cozido (150g)",
+                        34.5,
+                        4.35
+                    ],
+                    [
+                        "Banana (50g)",
+                        44.5,
+                        0.55
+                    ],
+                    [
+                        "Abacate (2200g)",
+                        3520.0,
+                        44.0
+                    ],
+                    [
+                        "Maçã (2200g)",
+                        1144.0,
+                        6.6
+                    ],
+                    [
+                        "Banana (2200g)",
+                        1958.0,
+                        24.2
+                    ]
+                ],
+                "dados_calc": {
+                    "peso": 20.0,
+                    "altura": 2.2,
+                    "idade": 49,
+                    "sexo": "M",
+                    "atividade": "Muito Ativo (treino 2x/dia)",
+                    "tmb": 87.62,
+                    "get": 166.478
+                }
+            }
+        }
+    }
+}
